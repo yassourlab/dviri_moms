@@ -1,0 +1,969 @@
+# Study accession: phs001523.v1.p1
+# Table accession: pht007515.v1.p1.c1
+# Consent group: Disease-Specific (Pregnancy Complications, IRB, PUB, MDS)
+# Citation instructions: The study accession (phs001523.v1.p1) is used to cite the study and its data tables and documents. The data in this file should be cited using the accession pht007515.v1.p1.c1.
+# To cite columns of data within this file, please use the variable (phv#) accessions below:
+#
+# 1) the table name and the variable (phv#) accessions below; or
+# 2) you may cite a variable as phv#.v1.p1.c1.
+
+##phv00354507.v1.p1.c1	phv00354508.v1.p1.c1	phv00354509.v1.p1.c1	phv00354510.v1.p1.c1	phv00354511.v1.p1.c1	phv00354512.v1.p1.c1	phv00354513.v1.p1.c1	phv00354514.v1.p1.c1	phv00354515.v1.p1.c1	phv00354516.v1.p1.c1	phv00354517.v1.p1.c1
+dbGaP_Sample_ID	SAMPLE_ID	visit_ID	BODY_SITE	ANALYTE_TYPE	IS_TUMOR	HISTOLOGICAL_TYPE	sample_type	sample_type_desc	visit_num	omic	sequencing_center
+2910466	EP013002_K10_MCKD	EP013002_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910469	EP013002_K10_MV1D	EP013002_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910467	EP013002_K10_MCVD	EP013002_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910468	EP013002_K10_MRCD	EP013002_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910473	EP013002_K20_MCKD	EP013002_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2910475	EP013002_K20_MV1D	EP013002_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2910474	EP013002_K20_MRCD	EP013002_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2910476	EP013002_K30_MCKD	EP013002_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2910478	EP013002_K30_MV1D	EP013002_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2910477	EP013002_K30_MRCD	EP013002_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2910479	EP013002_K40_MCKD	EP013002_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2910481	EP013002_K40_MV1D	EP013002_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2910480	EP013002_K40_MRCD	EP013002_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2910482	EP013002_K50_MCKD	EP013002_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2910484	EP013002_K50_MV1D	EP013002_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2910483	EP013002_K50_MRCD	EP013002_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2910485	EP013002_K60_BCKD	EP013002_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2910486	EP013002_K60_BRCD	EP013002_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2910487	EP013002_K70_BCKD	EP013002_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2910488	EP013002_K70_BRCD	EP013002_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2910490	EP013002_K80_MCKD	EP013002_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2910489	EP013002_K80_MCHD	EP013002_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2910491	EP013002_K90_BS1D	EP013002_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2910465	EP013002_K100_BS1D	EP013002_K100	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2910470	EP013002_K110_MCKD	EP013002_K110	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2910472	EP013002_K110_MV1D	EP013002_K110	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2910471	EP013002_K110_MRCD	EP013002_K110	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2915545	EP460880_K10_MV1D	EP460880_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915543	EP460880_K10_MCVD	EP460880_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915544	EP460880_K10_MRCD	EP460880_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915547	EP460880_K20_MV1D	EP460880_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915546	EP460880_K20_MRCD	EP460880_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915548	EP460880_K30_MCKD	EP460880_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915550	EP460880_K30_MV1D	EP460880_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915549	EP460880_K30_MRCD	EP460880_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915551	EP460880_K40_MCKD	EP460880_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915553	EP460880_K40_MV1D	EP460880_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915552	EP460880_K40_MRCD	EP460880_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915555	EP460880_K50_MCKD	EP460880_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915554	EP460880_K50_MCHD	EP460880_K50	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915556	EP460880_K60_MCKD	EP460880_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915558	EP460880_K60_MV1D	EP460880_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915557	EP460880_K60_MRCD	EP460880_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915559	EP460880_K70_MCKD	EP460880_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915561	EP460880_K70_MV1D	EP460880_K70	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915560	EP460880_K70_MRCD	EP460880_K70	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2912358	EP218239_K10_MCKD	EP218239_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912361	EP218239_K10_MV1D	EP218239_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912359	EP218239_K10_MCVD	EP218239_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912360	EP218239_K10_MRCD	EP218239_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912364	EP218239_K20_MCKD	EP218239_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912366	EP218239_K20_MV1D	EP218239_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912365	EP218239_K20_MRCD	EP218239_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912368	EP218239_K30_MCKD	EP218239_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912369	EP218239_K40_MCKD	EP218239_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912371	EP218239_K40_MV1D	EP218239_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912370	EP218239_K40_MRCD	EP218239_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912374	EP218239_K50_BCKD	EP218239_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2912375	EP218239_K50_BRCD	EP218239_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2912376	EP218239_K60_BS1D	EP218239_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2912377	EP218239_K70_BCKD	EP218239_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2912378	EP218239_K70_BRCD	EP218239_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2912380	EP218239_K80_MCKD	EP218239_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2912379	EP218239_K80_MCHD	EP218239_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2912381	EP218239_K90_BS1D	EP218239_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2912356	EP218239_K100_MCKD	EP218239_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2912357	EP218239_K100_MV1D	EP218239_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2911732	EP134204_K10_MCKD	EP134204_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911734	EP134204_K10_MV1D	EP134204_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911733	EP134204_K10_MRCD	EP134204_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911737	EP134204_K20_MCKD	EP134204_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911738	EP134204_K20_MV1D	EP134204_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911739	EP134204_K30_MCKD	EP134204_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911741	EP134204_K30_MV1D	EP134204_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911740	EP134204_K30_MRCD	EP134204_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911742	EP134204_K40_MCKD	EP134204_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911744	EP134204_K40_MV1D	EP134204_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911743	EP134204_K40_MRCD	EP134204_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911745	EP134204_K50_MCKD	EP134204_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911747	EP134204_K50_MV1D	EP134204_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911746	EP134204_K50_MRCD	EP134204_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911748	EP134204_K60_BS1D	EP134204_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2911749	EP134204_K70_BS1D	EP134204_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911750	EP134204_K80_BCKD	EP134204_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911751	EP134204_K80_BRCD	EP134204_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911753	EP134204_K90_MCKD	EP134204_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911752	EP134204_K90_MCHD	EP134204_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911730	EP134204_K100_BCKD	EP134204_K100	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2911731	EP134204_K100_BRCD	EP134204_K100	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2911736	EP134204_K110_MV1D	EP134204_K110	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2911735	EP134204_K110_MRCD	EP134204_K110	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2912198	EP203336_K10_MCKD	EP203336_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912201	EP203336_K10_MV1D	EP203336_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912199	EP203336_K10_MCVD	EP203336_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912200	EP203336_K10_MRCD	EP203336_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914452	EP368562_K10_MCKD	EP368562_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914454	EP368562_K10_MV1D	EP368562_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914453	EP368562_K10_MRCD	EP368562_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914456	EP368562_K20_MCKD	EP368562_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914458	EP368562_K20_MV1D	EP368562_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914457	EP368562_K20_MRCD	EP368562_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914460	EP368562_K30_MCKD	EP368562_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914462	EP368562_K30_MV1D	EP368562_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914461	EP368562_K30_MRCD	EP368562_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914465	EP368562_K40_MCKD	EP368562_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914467	EP368562_K40_MV1D	EP368562_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914466	EP368562_K40_MRCD	EP368562_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914469	EP368562_K50_BS1D	EP368562_K50	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2914471	EP368562_K60_BCKD	EP368562_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2914472	EP368562_K60_BRCD	EP368562_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2914473	EP368562_K70_BCKD	EP368562_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2914474	EP368562_K70_BRCD	EP368562_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2914475	EP368562_K80_MCKD	EP368562_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2914476	EP368562_K90_BS1D	EP368562_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2914451	EP368562_K100_MV1D	EP368562_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2917808	EP642999_K10_MCKD	EP642999_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917811	EP642999_K10_MV1D	EP642999_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917809	EP642999_K10_MCVD	EP642999_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917810	EP642999_K10_MRCD	EP642999_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917813	EP642999_K20_MCKD	EP642999_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917815	EP642999_K20_MV1D	EP642999_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917814	EP642999_K20_MRCD	EP642999_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917817	EP642999_K30_MCKD	EP642999_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917819	EP642999_K30_MV1D	EP642999_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917818	EP642999_K30_MRCD	EP642999_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917821	EP642999_K40_MCKD	EP642999_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917823	EP642999_K40_MV1D	EP642999_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917822	EP642999_K40_MRCD	EP642999_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917825	EP642999_K50_MCKD	EP642999_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917827	EP642999_K50_MV1D	EP642999_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917826	EP642999_K50_MRCD	EP642999_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917829	EP642999_K60_BS1D	EP642999_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2917831	EP642999_K70_BCKD	EP642999_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917832	EP642999_K70_BRCD	EP642999_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917833	EP642999_K80_BCKD	EP642999_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2917834	EP642999_K80_BRCD	EP642999_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2917836	EP642999_K90_MCKD	EP642999_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2917835	EP642999_K90_MCHD	EP642999_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2917807	EP642999_K100_MV1D	EP642999_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2920842	EP989401_K10_MCKD	EP989401_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920844	EP989401_K10_MV1D	EP989401_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920843	EP989401_K10_MRCD	EP989401_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920846	EP989401_K20_MCKD	EP989401_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920849	EP989401_K20_MV1D	EP989401_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920847	EP989401_K20_MCVD	EP989401_K20	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920848	EP989401_K20_MRCD	EP989401_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920851	EP989401_K30_MCKD	EP989401_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920852	EP989401_K30_MV1D	EP989401_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920854	EP989401_K40_MCKD	EP989401_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920856	EP989401_K40_MV1D	EP989401_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920855	EP989401_K40_MRCD	EP989401_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920858	EP989401_K50_MCKD	EP989401_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2920860	EP989401_K50_MV1D	EP989401_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2920859	EP989401_K50_MRCD	EP989401_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911846	EP154266_K10_MCKD	EP154266_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911848	EP154266_K10_MV1D	EP154266_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911847	EP154266_K10_MRCD	EP154266_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911858	EP154266_K20_MCKD	EP154266_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911860	EP154266_K20_MV1D	EP154266_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911859	EP154266_K20_MRCD	EP154266_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911862	EP154266_K30_MCKD	EP154266_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911863	EP154266_K40_MCKD	EP154266_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911865	EP154266_K40_MV1D	EP154266_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911864	EP154266_K40_MRCD	EP154266_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911867	EP154266_K50_MCKD	EP154266_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911869	EP154266_K50_MV1D	EP154266_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911868	EP154266_K50_MRCD	EP154266_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911871	EP154266_K60_MCKD	EP154266_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2911873	EP154266_K60_MV1D	EP154266_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2911872	EP154266_K60_MRCD	EP154266_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2911875	EP154266_K70_MCKD	EP154266_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911877	EP154266_K70_MV1D	EP154266_K70	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911876	EP154266_K70_MRCD	EP154266_K70	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911879	EP154266_K80_MCKD	EP154266_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911881	EP154266_K80_MV1D	EP154266_K80	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911880	EP154266_K80_MRCD	EP154266_K80	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911883	EP154266_K90_MCKD	EP154266_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911885	EP154266_K90_MV1D	EP154266_K90	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911884	EP154266_K90_MRCD	EP154266_K90	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911844	EP154266_K100_BS1D	EP154266_K100	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2911850	EP154266_K110_BS1D	EP154266_K110	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2911851	EP154266_K120_BCKD	EP154266_K120	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2911852	EP154266_K120_BRCD	EP154266_K120	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2911854	EP154266_K130_MCKD	EP154266_K130	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_13	16S	NARF-Virginia Commonwealth University
+2911853	EP154266_K130_MCHD	EP154266_K130	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_13	16S	NARF-Virginia Commonwealth University
+2911855	EP154266_K140_BCKD	EP154266_K140	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_14	16S	NARF-Virginia Commonwealth University
+2911856	EP154266_K140_BRCD	EP154266_K140	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_14	16S	NARF-Virginia Commonwealth University
+2911857	EP154266_K150_MV1D	EP154266_K150	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_15	16S	NARF-Virginia Commonwealth University
+2918377	EP716298_K10_MCKD	EP716298_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918380	EP716298_K10_MV1D	EP716298_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918378	EP716298_K10_MCVD	EP716298_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918379	EP716298_K10_MRCD	EP716298_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918381	EP716298_K20_MCKD	EP716298_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918383	EP716298_K20_MV1D	EP716298_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918382	EP716298_K20_MRCD	EP716298_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918384	EP716298_K30_MCKD	EP716298_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918386	EP716298_K30_MV1D	EP716298_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918385	EP716298_K30_MRCD	EP716298_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918387	EP716298_K40_MCKD	EP716298_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918389	EP716298_K40_MV1D	EP716298_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918388	EP716298_K40_MRCD	EP716298_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914395	EP364626_K10_MCKD	EP364626_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914397	EP364626_K10_MV1D	EP364626_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914396	EP364626_K10_MRCD	EP364626_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914399	EP364626_K20_MCKD	EP364626_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914401	EP364626_K20_MV1D	EP364626_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914400	EP364626_K20_MRCD	EP364626_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914403	EP364626_K30_MCKD	EP364626_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914405	EP364626_K30_MV1D	EP364626_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914404	EP364626_K30_MRCD	EP364626_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914407	EP364626_K40_MCKD	EP364626_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914409	EP364626_K40_MV1D	EP364626_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914408	EP364626_K40_MRCD	EP364626_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914411	EP364626_K50_BCKD	EP364626_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2914412	EP364626_K50_BRCD	EP364626_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2914413	EP364626_K60_BS1D	EP364626_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2914415	EP364626_K70_BCKD	EP364626_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2914416	EP364626_K70_BRCD	EP364626_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2914418	EP364626_K80_MCKD	EP364626_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2914417	EP364626_K80_MCHD	EP364626_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2914419	EP364626_K90_BS1D	EP364626_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2914394	EP364626_K100_MV1D	EP364626_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2914393	EP364626_K100_MRCD	EP364626_K100	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2918414	EP718673_K10_MCKD	EP718673_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918417	EP718673_K10_MV1D	EP718673_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918415	EP718673_K10_MCVD	EP718673_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918416	EP718673_K10_MRCD	EP718673_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918419	EP718673_K20_MCKD	EP718673_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918421	EP718673_K20_MV1D	EP718673_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918420	EP718673_K20_MRCD	EP718673_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918423	EP718673_K30_MCKD	EP718673_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918425	EP718673_K30_MV1D	EP718673_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918424	EP718673_K30_MRCD	EP718673_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918428	EP718673_K40_MCKD	EP718673_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918430	EP718673_K40_MV1D	EP718673_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918429	EP718673_K40_MRCD	EP718673_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918432	EP718673_K50_BCKD	EP718673_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2918433	EP718673_K50_BRCD	EP718673_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2918434	EP718673_K60_BS1D	EP718673_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2918437	EP718673_K70_MCKD	EP718673_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2918436	EP718673_K70_MCHD	EP718673_K70	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2918438	EP718673_K80_MV1D	EP718673_K80	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919760	EP879870_K10_MCKD	EP879870_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919762	EP879870_K10_MV1D	EP879870_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919761	EP879870_K10_MRCD	EP879870_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919763	EP879870_K20_MCKD	EP879870_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919765	EP879870_K20_MV1D	EP879870_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919764	EP879870_K20_MRCD	EP879870_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919766	EP879870_K30_MCKD	EP879870_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919768	EP879870_K30_MV1D	EP879870_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919767	EP879870_K30_MRCD	EP879870_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919769	EP879870_K40_BCKD	EP879870_K40	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919770	EP879870_K40_BRCD	EP879870_K40	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919771	EP879870_K50_BS1D	EP879870_K50	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919772	EP879870_K60_BCKD	EP879870_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2919773	EP879870_K60_BRCD	EP879870_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2919774	EP879870_K70_BS1D	EP879870_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919776	EP879870_K80_MCKD	EP879870_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919775	EP879870_K80_MCHD	EP879870_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919777	EP879870_K90_MCKD	EP879870_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919779	EP879870_K90_MV1D	EP879870_K90	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919778	EP879870_K90_MRCD	EP879870_K90	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2912450	EP222037_K10_MCKD	EP222037_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912453	EP222037_K10_MV1D	EP222037_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912451	EP222037_K10_MCVD	EP222037_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912452	EP222037_K10_MRCD	EP222037_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912455	EP222037_K20_MCKD	EP222037_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912457	EP222037_K20_MV1D	EP222037_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912456	EP222037_K20_MRCD	EP222037_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912460	EP222037_K30_MCKD	EP222037_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912462	EP222037_K30_MV1D	EP222037_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912461	EP222037_K30_MRCD	EP222037_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912465	EP222037_K40_MCKD	EP222037_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912467	EP222037_K40_MV1D	EP222037_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912466	EP222037_K40_MRCD	EP222037_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912469	EP222037_K50_MCKD	EP222037_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2912470	EP222037_K60_MCKD	EP222037_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2912472	EP222037_K60_MV1D	EP222037_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2912471	EP222037_K60_MRCD	EP222037_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2912475	EP222037_K70_BCKD	EP222037_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2912476	EP222037_K70_BRCD	EP222037_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2912478	EP222037_K80_MCKD	EP222037_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2912477	EP222037_K80_MCHD	EP222037_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2912479	EP222037_K90_BCKD	EP222037_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2912480	EP222037_K90_BRCD	EP222037_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919253	EP824738_K10_MCKD	EP824738_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919256	EP824738_K10_MV1D	EP824738_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919254	EP824738_K10_MCVD	EP824738_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919255	EP824738_K10_MRCD	EP824738_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919264	EP824738_K20_MV1D	EP824738_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919262	EP824738_K20_MCKD	EP824738_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919263	EP824738_K20_MRCD	EP824738_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919266	EP824738_K30_MCKD	EP824738_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919268	EP824738_K30_MV1D	EP824738_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919267	EP824738_K30_MRCD	EP824738_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919270	EP824738_K40_MCKD	EP824738_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919272	EP824738_K40_MV1D	EP824738_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919271	EP824738_K40_MRCD	EP824738_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919275	EP824738_K50_MV1D	EP824738_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919277	EP824738_K60_MCKD	EP824738_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2919278	EP824738_K60_MV1D	EP824738_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2919280	EP824738_K70_MCKD	EP824738_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919282	EP824738_K70_MV1D	EP824738_K70	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919281	EP824738_K70_MRCD	EP824738_K70	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919284	EP824738_K80_BS1D	EP824738_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919286	EP824738_K90_BCKD	EP824738_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919287	EP824738_K90_BRCD	EP824738_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919251	EP824738_K100_BCKD	EP824738_K100	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2919252	EP824738_K100_BRCD	EP824738_K100	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2919259	EP824738_K110_MCKD	EP824738_K110	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2919258	EP824738_K110_MCHD	EP824738_K110	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2919260	EP824738_K120_BS1D	EP824738_K120	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2913940	EP318569_K10_MCKD	EP318569_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913942	EP318569_K10_MV1D	EP318569_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913941	EP318569_K10_MCVD	EP318569_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913944	EP318569_K20_MV1D	EP318569_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913943	EP318569_K20_MRCD	EP318569_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913945	EP318569_K30_MCKD	EP318569_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913947	EP318569_K30_MV1D	EP318569_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913946	EP318569_K30_MRCD	EP318569_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913948	EP318569_K40_MCKD	EP318569_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2913950	EP318569_K40_MV1D	EP318569_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2913949	EP318569_K40_MRCD	EP318569_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2913952	EP318569_K50_MCKD	EP318569_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2913951	EP318569_K50_MCHD	EP318569_K50	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2913953	EP318569_K60_MCKD	EP318569_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2913955	EP318569_K60_MV1D	EP318569_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2913954	EP318569_K60_MRCD	EP318569_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2914571	EP376326_K10_MCKD	EP376326_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914573	EP376326_K10_MV1D	EP376326_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914572	EP376326_K10_MRCD	EP376326_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914576	EP376326_K20_MCKD	EP376326_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914578	EP376326_K20_MV1D	EP376326_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914577	EP376326_K20_MRCD	EP376326_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2914580	EP376326_K30_MCKD	EP376326_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914582	EP376326_K30_MV1D	EP376326_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914581	EP376326_K30_MRCD	EP376326_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2914585	EP376326_K40_MCKD	EP376326_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914587	EP376326_K40_MV1D	EP376326_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914586	EP376326_K40_MRCD	EP376326_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2914590	EP376326_K50_MCKD	EP376326_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2914592	EP376326_K50_MV1D	EP376326_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2914591	EP376326_K50_MRCD	EP376326_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2914594	EP376326_K60_BCKD	EP376326_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2914595	EP376326_K60_BRCD	EP376326_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2914596	EP376326_K70_BCKD	EP376326_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2914597	EP376326_K70_BRCD	EP376326_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2914599	EP376326_K80_MCKD	EP376326_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2914598	EP376326_K80_MCHD	EP376326_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2914600	EP376326_K90_BS1D	EP376326_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2914569	EP376326_K100_BS1D	EP376326_K100	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2914575	EP376326_K110_MV1D	EP376326_K110	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2911098	EP081859_K10_MCKD	EP081859_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911101	EP081859_K10_MV1D	EP081859_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911099	EP081859_K10_MCVD	EP081859_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911100	EP081859_K10_MRCD	EP081859_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914431	EP367695_K10_MCKD	EP367695_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914434	EP367695_K10_MV1D	EP367695_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914432	EP367695_K10_MCVD	EP367695_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2914433	EP367695_K10_MRCD	EP367695_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916209	EP509951_K10_MCKD	EP509951_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916212	EP509951_K10_MV1D	EP509951_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916210	EP509951_K10_MCVD	EP509951_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916211	EP509951_K10_MRCD	EP509951_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916219	EP509951_K20_MCKD	EP509951_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916221	EP509951_K20_MV1D	EP509951_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916220	EP509951_K20_MRCD	EP509951_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916223	EP509951_K30_MCKD	EP509951_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916225	EP509951_K30_MV1D	EP509951_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916224	EP509951_K30_MRCD	EP509951_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916227	EP509951_K40_MCKD	EP509951_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916229	EP509951_K40_MV1D	EP509951_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916228	EP509951_K40_MRCD	EP509951_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916231	EP509951_K50_MCKD	EP509951_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916233	EP509951_K50_MV1D	EP509951_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916232	EP509951_K50_MRCD	EP509951_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916235	EP509951_K60_MCKD	EP509951_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916237	EP509951_K60_MV1D	EP509951_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916236	EP509951_K60_MRCD	EP509951_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916240	EP509951_K70_BCKD	EP509951_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916241	EP509951_K70_BRCD	EP509951_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916242	EP509951_K80_BS1D	EP509951_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916243	EP509951_K90_BCKD	EP509951_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2916244	EP509951_K90_BRCD	EP509951_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2916208	EP509951_K100_BS1D	EP509951_K100	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2916216	EP509951_K110_MCKD	EP509951_K110	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2916215	EP509951_K110_MCHD	EP509951_K110	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2916217	EP509951_K120_MCKD	EP509951_K120	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2916218	EP509951_K120_MV1D	EP509951_K120	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2915045	EP424615_K10_MCKD	EP424615_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915047	EP424615_K10_MV1D	EP424615_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915046	EP424615_K10_MRCD	EP424615_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915050	EP424615_K20_MCKD	EP424615_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915052	EP424615_K20_MV1D	EP424615_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915051	EP424615_K20_MRCD	EP424615_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915054	EP424615_K30_MCKD	EP424615_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915056	EP424615_K30_MV1D	EP424615_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915055	EP424615_K30_MRCD	EP424615_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915059	EP424615_K40_MCKD	EP424615_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915061	EP424615_K40_MV1D	EP424615_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915060	EP424615_K40_MRCD	EP424615_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915063	EP424615_K50_MCKD	EP424615_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915065	EP424615_K50_MV1D	EP424615_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915064	EP424615_K50_MRCD	EP424615_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915067	EP424615_K60_BCKD	EP424615_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915068	EP424615_K60_BRCD	EP424615_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915069	EP424615_K70_BS1D	EP424615_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915072	EP424615_K80_MCKD	EP424615_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915071	EP424615_K80_MCHD	EP424615_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915073	EP424615_K90_BS1D	EP424615_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915043	EP424615_K100_BCKD	EP424615_K100	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915044	EP424615_K100_BRCD	EP424615_K100	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915049	EP424615_K110_MV1D	EP424615_K110	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2916506	EP537290_K10_MCKD	EP537290_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916509	EP537290_K10_MV1D	EP537290_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916507	EP537290_K10_MCVD	EP537290_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916508	EP537290_K10_MRCD	EP537290_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916512	EP537290_K20_MCKD	EP537290_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916514	EP537290_K20_MV1D	EP537290_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916513	EP537290_K20_MRCD	EP537290_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916516	EP537290_K30_MCKD	EP537290_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916518	EP537290_K30_MV1D	EP537290_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916517	EP537290_K30_MRCD	EP537290_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916520	EP537290_K40_MCKD	EP537290_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916522	EP537290_K40_MV1D	EP537290_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916521	EP537290_K40_MRCD	EP537290_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916525	EP537290_K50_BS1D	EP537290_K50	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916526	EP537290_K60_BS1D	EP537290_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916527	EP537290_K70_BCKD	EP537290_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916528	EP537290_K70_BRCD	EP537290_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916530	EP537290_K80_MCKD	EP537290_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916529	EP537290_K80_MCHD	EP537290_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916531	EP537290_K90_BCKD	EP537290_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2916532	EP537290_K90_BRCD	EP537290_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911232	EP097937_K10_MCKD	EP097937_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911234	EP097937_K10_MV1D	EP097937_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911233	EP097937_K10_MRCD	EP097937_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911237	EP097937_K20_MCKD	EP097937_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911239	EP097937_K20_MV1D	EP097937_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911238	EP097937_K20_MRCD	EP097937_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911242	EP097937_K30_MCKD	EP097937_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911244	EP097937_K30_MV1D	EP097937_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911243	EP097937_K30_MRCD	EP097937_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911246	EP097937_K40_BS1D	EP097937_K40	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911247	EP097937_K50_BCKD	EP097937_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911248	EP097937_K50_BRCD	EP097937_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911250	EP097937_K70_MCKD	EP097937_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911249	EP097937_K70_MCHD	EP097937_K70	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911251	EP097937_K80_BCKD	EP097937_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2917002	EP573960_K10_MCKD	EP573960_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917004	EP573960_K10_MV1D	EP573960_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917003	EP573960_K10_MRCD	EP573960_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917005	EP573960_K20_MCKD	EP573960_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917007	EP573960_K20_MV1D	EP573960_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917006	EP573960_K20_MRCD	EP573960_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917008	EP573960_K30_MCKD	EP573960_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917010	EP573960_K30_MV1D	EP573960_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917009	EP573960_K30_MRCD	EP573960_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917011	EP573960_K40_BS1D	EP573960_K40	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917012	EP573960_K50_BCKD	EP573960_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917013	EP573960_K50_BRCD	EP573960_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917014	EP573960_K60_BS1D	EP573960_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2917016	EP573960_K70_MCKD	EP573960_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917015	EP573960_K70_MCHD	EP573960_K70	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917017	EP573960_K80_BCKD	EP573960_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2917018	EP573960_K80_BRCD	EP573960_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916789	EP557758_K10_MCKD	EP557758_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916792	EP557758_K10_MV1D	EP557758_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916790	EP557758_K10_MCVD	EP557758_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916791	EP557758_K10_MRCD	EP557758_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916799	EP557758_K20_MCKD	EP557758_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916802	EP557758_K20_MV1D	EP557758_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916800	EP557758_K20_MCVD	EP557758_K20	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916801	EP557758_K20_MRCD	EP557758_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916804	EP557758_K30_MCKD	EP557758_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916806	EP557758_K30_MV1D	EP557758_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916805	EP557758_K30_MRCD	EP557758_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916808	EP557758_K40_MCKD	EP557758_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916810	EP557758_K40_MV1D	EP557758_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916809	EP557758_K40_MRCD	EP557758_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916813	EP557758_K50_MCKD	EP557758_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916815	EP557758_K50_MV1D	EP557758_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916814	EP557758_K50_MRCD	EP557758_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916817	EP557758_K60_MCKD	EP557758_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916819	EP557758_K60_MV1D	EP557758_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916818	EP557758_K60_MRCD	EP557758_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916821	EP557758_K70_BCKD	EP557758_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916822	EP557758_K70_BRCD	EP557758_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916823	EP557758_K80_BS1D	EP557758_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916825	EP557758_K90_BS1D	EP557758_K90	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2916787	EP557758_K100_BCKD	EP557758_K100	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2916788	EP557758_K100_BRCD	EP557758_K100	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2916795	EP557758_K110_MCKD	EP557758_K110	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2916794	EP557758_K110_MCHD	EP557758_K110	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2916796	EP557758_K120_MCKD	EP557758_K120	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2916798	EP557758_K120_MV1D	EP557758_K120	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2916797	EP557758_K120_MRCD	EP557758_K120	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2918496	EP733790_K10_MCKD	EP733790_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918498	EP733790_K10_MV1D	EP733790_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918497	EP733790_K10_MRCD	EP733790_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918500	EP733790_K20_MCKD	EP733790_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918502	EP733790_K20_MV1D	EP733790_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918501	EP733790_K20_MRCD	EP733790_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918504	EP733790_K30_MCKD	EP733790_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918506	EP733790_K30_MV1D	EP733790_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918505	EP733790_K30_MRCD	EP733790_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918509	EP733790_K40_MCKD	EP733790_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918511	EP733790_K40_MV1D	EP733790_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918510	EP733790_K40_MRCD	EP733790_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918513	EP733790_K50_BCKD	EP733790_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2918514	EP733790_K50_BRCD	EP733790_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2918515	EP733790_K60_BS1D	EP733790_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2918517	EP733790_K70_BS1D	EP733790_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2918519	EP733790_K80_BCKD	EP733790_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2918520	EP733790_K80_BRCD	EP733790_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2918521	EP733790_K90_MCKD	EP733790_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915877	EP483881_K10_MCKD	EP483881_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915880	EP483881_K10_MV1D	EP483881_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915878	EP483881_K10_MCVD	EP483881_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915879	EP483881_K10_MRCD	EP483881_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915884	EP483881_K20_MCKD	EP483881_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915886	EP483881_K20_MV1D	EP483881_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915885	EP483881_K20_MRCD	EP483881_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915888	EP483881_K30_MCKD	EP483881_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915890	EP483881_K30_MV1D	EP483881_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915889	EP483881_K30_MRCD	EP483881_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915891	EP483881_K40_MCKD	EP483881_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915893	EP483881_K40_MV1D	EP483881_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915892	EP483881_K40_MRCD	EP483881_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915896	EP483881_K50_MCKD	EP483881_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915898	EP483881_K50_MV1D	EP483881_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915897	EP483881_K50_MRCD	EP483881_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915900	EP483881_K60_MCKD	EP483881_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915902	EP483881_K60_MV1D	EP483881_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915901	EP483881_K60_MRCD	EP483881_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915904	EP483881_K70_BCKD	EP483881_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915905	EP483881_K70_BRCD	EP483881_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915906	EP483881_K80_BS1D	EP483881_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915908	EP483881_K90_BCKD	EP483881_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915909	EP483881_K90_BRCD	EP483881_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915875	EP483881_K100_BS1D	EP483881_K100	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915883	EP483881_K110_MCKD	EP483881_K110	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2915882	EP483881_K110_MCHD	EP483881_K110	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2920026	EP903758_K10_MCKD	EP903758_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920029	EP903758_K10_MV1D	EP903758_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920027	EP903758_K10_MCVD	EP903758_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920028	EP903758_K10_MRCD	EP903758_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920030	EP903758_K20_MCKD	EP903758_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920032	EP903758_K20_MV1D	EP903758_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920031	EP903758_K20_MRCD	EP903758_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920033	EP903758_K30_MCKD	EP903758_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920035	EP903758_K30_MV1D	EP903758_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920034	EP903758_K30_MRCD	EP903758_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920036	EP903758_K40_MCKD	EP903758_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920038	EP903758_K40_MV1D	EP903758_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920037	EP903758_K40_MRCD	EP903758_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920040	EP903758_K50_MCKD	EP903758_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2920039	EP903758_K50_MCHD	EP903758_K50	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915077	EP426527_K10_MCKD	EP426527_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915078	EP426527_K10_MV1D	EP426527_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915080	EP426527_K20_MCKD	EP426527_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915082	EP426527_K20_MV1D	EP426527_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915081	EP426527_K20_MRCD	EP426527_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915083	EP426527_K30_MCKD	EP426527_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915085	EP426527_K30_MV1D	EP426527_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915084	EP426527_K30_MRCD	EP426527_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915087	EP426527_K40_MCKD	EP426527_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915089	EP426527_K40_MV1D	EP426527_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915088	EP426527_K40_MRCD	EP426527_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915091	EP426527_K50_MCKD	EP426527_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915094	EP426527_K50_MV1D	EP426527_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915092	EP426527_K50_MCVD	EP426527_K50	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915093	EP426527_K50_MRCD	EP426527_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915096	EP426527_K60_BS1D	EP426527_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915098	EP426527_K70_BCKD	EP426527_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915099	EP426527_K70_BRCD	EP426527_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915100	EP426527_K80_BS1D	EP426527_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915103	EP426527_K90_MCKD	EP426527_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915102	EP426527_K90_MCHD	EP426527_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915075	EP426527_K100_BCKD	EP426527_K100	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915076	EP426527_K100_BRCD	EP426527_K100	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2918345	EP708835_K10_MCKD	EP708835_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918347	EP708835_K10_MV1D	EP708835_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918346	EP708835_K10_MRCD	EP708835_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2918349	EP708835_K20_MCKD	EP708835_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918351	EP708835_K20_MV1D	EP708835_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918350	EP708835_K20_MRCD	EP708835_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2918354	EP708835_K30_MCKD	EP708835_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918356	EP708835_K30_MV1D	EP708835_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918355	EP708835_K30_MRCD	EP708835_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2918359	EP708835_K40_MCKD	EP708835_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918361	EP708835_K40_MV1D	EP708835_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918360	EP708835_K40_MRCD	EP708835_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2918363	EP708835_K50_BS1D	EP708835_K50	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2918365	EP708835_K60_BS1D	EP708835_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2918367	EP708835_K70_BCKD	EP708835_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2918368	EP708835_K70_BRCD	EP708835_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2918370	EP708835_K80_MCKD	EP708835_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2918369	EP708835_K80_MCHD	EP708835_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2918371	EP708835_K90_BCKD	EP708835_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2918372	EP708835_K90_BRCD	EP708835_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2918344	EP708835_K100_MV1D	EP708835_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2918342	EP708835_K100_MCVD	EP708835_K100	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2918343	EP708835_K100_MRCD	EP708835_K100	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2910688	EP036702_K10_MCKD	EP036702_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910691	EP036702_K10_MV1D	EP036702_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910689	EP036702_K10_MCVD	EP036702_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910690	EP036702_K10_MRCD	EP036702_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2910692	EP036702_K20_MCKD	EP036702_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2910694	EP036702_K20_MV1D	EP036702_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2910693	EP036702_K20_MRCD	EP036702_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2910695	EP036702_K30_MCKD	EP036702_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2910697	EP036702_K30_MV1D	EP036702_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2910696	EP036702_K30_MRCD	EP036702_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2910699	EP036702_K40_MV1D	EP036702_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2910698	EP036702_K40_MRCD	EP036702_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2910700	EP036702_K60_BCKD	EP036702_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2910701	EP036702_K60_BRCD	EP036702_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2910702	EP036702_K70_BS1D	EP036702_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2910703	EP036702_K80_BCKD	EP036702_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2910704	EP036702_K80_BRCD	EP036702_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2910705	EP036702_K90_MCHD	EP036702_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2910687	EP036702_K100_BS1D	EP036702_K100	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2919863	EP889264_K10_MCKD	EP889264_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919866	EP889264_K10_MV1D	EP889264_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919864	EP889264_K10_MCVD	EP889264_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919865	EP889264_K10_MRCD	EP889264_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919867	EP889264_K20_MCKD	EP889264_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919869	EP889264_K20_MV1D	EP889264_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919868	EP889264_K20_MRCD	EP889264_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919870	EP889264_K30_MCKD	EP889264_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919872	EP889264_K30_MV1D	EP889264_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919871	EP889264_K30_MRCD	EP889264_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919873	EP889264_K40_MCKD	EP889264_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919875	EP889264_K40_MV1D	EP889264_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919874	EP889264_K40_MRCD	EP889264_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919876	EP889264_K50_BCKD	EP889264_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919877	EP889264_K50_BRCD	EP889264_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919878	EP889264_K60_BS1D	EP889264_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2919879	EP889264_K70_BCKD	EP889264_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919880	EP889264_K70_BRCD	EP889264_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919882	EP889264_K80_MCKD	EP889264_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919881	EP889264_K80_MCHD	EP889264_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919884	EP889264_K90_MV1D	EP889264_K90	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919883	EP889264_K90_MRCD	EP889264_K90	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2913799	EP311701_K10_MCKD	EP311701_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913802	EP311701_K10_MV1D	EP311701_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913800	EP311701_K10_MCVD	EP311701_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913801	EP311701_K10_MRCD	EP311701_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913803	EP311701_K20_MCKD	EP311701_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913805	EP311701_K20_MV1D	EP311701_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913804	EP311701_K20_MRCD	EP311701_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913806	EP311701_K30_MCKD	EP311701_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913808	EP311701_K30_MV1D	EP311701_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913807	EP311701_K30_MRCD	EP311701_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913810	EP311701_K40_MV1D	EP311701_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2913809	EP311701_K40_MRCD	EP311701_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2913812	EP311701_K50_MV1D	EP311701_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2913811	EP311701_K50_MRCD	EP311701_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2913813	EP311701_K60_BCKD	EP311701_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2913814	EP311701_K60_BRCD	EP311701_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2913815	EP311701_K70_MV1D	EP311701_K70	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916383	EP521049_K10_MCKD	EP521049_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916386	EP521049_K10_MV1D	EP521049_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916384	EP521049_K10_MCVD	EP521049_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916385	EP521049_K10_MRCD	EP521049_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916388	EP521049_K20_MCKD	EP521049_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916390	EP521049_K20_MV1D	EP521049_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916389	EP521049_K20_MRCD	EP521049_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916393	EP521049_K30_MCKD	EP521049_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916395	EP521049_K30_MV1D	EP521049_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916394	EP521049_K30_MRCD	EP521049_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916397	EP521049_K40_MCKD	EP521049_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916398	EP521049_K50_BS1D	EP521049_K50	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2916400	EP521049_K60_BCKD	EP521049_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916401	EP521049_K60_BRCD	EP521049_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2916402	EP521049_K70_BS1D	EP521049_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2916404	EP521049_K80_BCKD	EP521049_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916405	EP521049_K80_BRCD	EP521049_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2916407	EP521049_K90_MCKD	EP521049_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2916406	EP521049_K90_MCHD	EP521049_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2916380	EP521049_K100_MCKD	EP521049_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2916382	EP521049_K100_MV1D	EP521049_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2916381	EP521049_K100_MRCD	EP521049_K100	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2913923	EP316551_K10_MCKD	EP316551_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913925	EP316551_K10_MV1D	EP316551_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913924	EP316551_K10_MRCD	EP316551_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913926	EP316551_K20_MCKD	EP316551_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913928	EP316551_K20_MV1D	EP316551_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913927	EP316551_K20_MRCD	EP316551_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913929	EP316551_K30_MCKD	EP316551_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913931	EP316551_K30_MV1D	EP316551_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913930	EP316551_K30_MRCD	EP316551_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913932	EP316551_K40_MCKD	EP316551_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2913933	EP316551_K50_BRCD	EP316551_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2913934	EP316551_K60_BS1D	EP316551_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2913935	EP316551_K70_BS1D	EP316551_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2913936	EP316551_K80_BCKD	EP316551_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2913937	EP316551_K80_BRCD	EP316551_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2913939	EP316551_K90_MCKD	EP316551_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2913938	EP316551_K90_MCHD	EP316551_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2913920	EP316551_K100_MCKD	EP316551_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2913922	EP316551_K100_MV1D	EP316551_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2913921	EP316551_K100_MRCD	EP316551_K100	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2917420	EP603154_K10_MCKD	EP603154_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917422	EP603154_K10_MV1D	EP603154_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917421	EP603154_K10_MRCD	EP603154_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917423	EP603154_K20_MCKD	EP603154_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917425	EP603154_K20_MV1D	EP603154_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917424	EP603154_K20_MRCD	EP603154_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917426	EP603154_K30_MCKD	EP603154_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917428	EP603154_K30_MV1D	EP603154_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917427	EP603154_K30_MRCD	EP603154_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917429	EP603154_K40_BS1D	EP603154_K40	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917430	EP603154_K50_BCKD	EP603154_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917431	EP603154_K50_BRCD	EP603154_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917432	EP603154_K60_BS1D	EP603154_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2917433	EP603154_K70_BRCD	EP603154_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917435	EP603154_K80_MCKD	EP603154_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2917434	EP603154_K80_MCHD	EP603154_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915940	EP488403_K10_MCKD	EP488403_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915943	EP488403_K10_MV1D	EP488403_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915941	EP488403_K10_MCVD	EP488403_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915942	EP488403_K10_MRCD	EP488403_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915947	EP488403_K20_MCKD	EP488403_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915949	EP488403_K20_MV1D	EP488403_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915948	EP488403_K20_MRCD	EP488403_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915951	EP488403_K30_MCKD	EP488403_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915953	EP488403_K30_MV1D	EP488403_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915952	EP488403_K30_MRCD	EP488403_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915955	EP488403_K40_MCKD	EP488403_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915957	EP488403_K40_MV1D	EP488403_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915956	EP488403_K40_MRCD	EP488403_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915960	EP488403_K50_BCKD	EP488403_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915961	EP488403_K50_BRCD	EP488403_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915962	EP488403_K60_BS1D	EP488403_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915963	EP488403_K70_BS1D	EP488403_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915964	EP488403_K80_BCKD	EP488403_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915965	EP488403_K80_BRCD	EP488403_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915967	EP488403_K90_MCKD	EP488403_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915966	EP488403_K90_MCHD	EP488403_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915937	EP488403_K100_MCKD	EP488403_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915939	EP488403_K100_MV1D	EP488403_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915938	EP488403_K100_MRCD	EP488403_K100	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915944	EP488403_K110_MCKD	EP488403_K110	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2915946	EP488403_K110_MV1D	EP488403_K110	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2915945	EP488403_K110_MRCD	EP488403_K110	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2915785	EP482764_K10_MCKD	EP482764_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915788	EP482764_K10_MV1D	EP482764_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915786	EP482764_K10_MCVD	EP482764_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915787	EP482764_K10_MRCD	EP482764_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915790	EP482764_K20_MCKD	EP482764_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915792	EP482764_K20_MV1D	EP482764_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915791	EP482764_K20_MRCD	EP482764_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915795	EP482764_K30_MCKD	EP482764_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915797	EP482764_K30_MV1D	EP482764_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915796	EP482764_K30_MRCD	EP482764_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915799	EP482764_K40_MCKD	EP482764_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915801	EP482764_K40_MV1D	EP482764_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915800	EP482764_K40_MRCD	EP482764_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915804	EP482764_K50_MCKD	EP482764_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915806	EP482764_K50_MV1D	EP482764_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915805	EP482764_K50_MRCD	EP482764_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915808	EP482764_K60_BS1D	EP482764_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915810	EP482764_K70_BCKD	EP482764_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915812	EP482764_K80_MCKD	EP482764_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915811	EP482764_K80_MCHD	EP482764_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915813	EP482764_K90_BCKD	EP482764_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915814	EP482764_K90_BRCD	EP482764_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915780	EP482764_K100_MCKD	EP482764_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915782	EP482764_K100_MV1D	EP482764_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915781	EP482764_K100_MRCD	EP482764_K100	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2917021	EP575820_K10_MCKD	EP575820_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917023	EP575820_K10_MV1D	EP575820_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917022	EP575820_K10_MRCD	EP575820_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917026	EP575820_K20_MCKD	EP575820_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917028	EP575820_K20_MV1D	EP575820_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917027	EP575820_K20_MRCD	EP575820_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917030	EP575820_K30_MCKD	EP575820_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917032	EP575820_K30_MV1D	EP575820_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917031	EP575820_K30_MRCD	EP575820_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917035	EP575820_K40_MCKD	EP575820_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917036	EP575820_K40_MV1D	EP575820_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917038	EP575820_K50_MCKD	EP575820_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917040	EP575820_K50_MV1D	EP575820_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917039	EP575820_K50_MRCD	EP575820_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2917042	EP575820_K60_BS1D	EP575820_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2917044	EP575820_K70_BCKD	EP575820_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917045	EP575820_K70_BRCD	EP575820_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2917046	EP575820_K80_BS1D	EP575820_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2917049	EP575820_K90_MCKD	EP575820_K90	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2917048	EP575820_K90_MCHD	EP575820_K90	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2917019	EP575820_K100_BCKD	EP575820_K100	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2917020	EP575820_K100_BRCD	EP575820_K100	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2917025	EP575820_K120_MV1D	EP575820_K120	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2911069	EP081373_K10_MCKD	EP081373_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911072	EP081373_K10_MV1D	EP081373_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911070	EP081373_K10_MCVD	EP081373_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911071	EP081373_K10_MRCD	EP081373_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2911074	EP081373_K20_MCKD	EP081373_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911076	EP081373_K20_MV1D	EP081373_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911075	EP081373_K20_MRCD	EP081373_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2911078	EP081373_K30_MCKD	EP081373_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911080	EP081373_K30_MV1D	EP081373_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911079	EP081373_K30_MRCD	EP081373_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2911081	EP081373_K40_MCKD	EP081373_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911083	EP081373_K40_MV1D	EP081373_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911082	EP081373_K40_MRCD	EP081373_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2911086	EP081373_K50_MCKD	EP081373_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911088	EP081373_K50_MV1D	EP081373_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911087	EP081373_K50_MRCD	EP081373_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2911090	EP081373_K60_BCKD	EP081373_K60	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2911091	EP081373_K60_BRCD	EP081373_K60	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2911092	EP081373_K70_BS1D	EP081373_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2911095	EP081373_K80_MCKD	EP081373_K80	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911094	EP081373_K80_MCHD	EP081373_K80	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2911096	EP081373_K90_BCKD	EP081373_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911097	EP081373_K90_BRCD	EP081373_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2911068	EP081373_K100_MV1D	EP081373_K100	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915697	EP474224_K10_MCKD	EP474224_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915699	EP474224_K10_MV1D	EP474224_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915698	EP474224_K10_MRCD	EP474224_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915701	EP474224_K20_MCKD	EP474224_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915703	EP474224_K20_MV1D	EP474224_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915702	EP474224_K20_MRCD	EP474224_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915705	EP474224_K30_MCKD	EP474224_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915707	EP474224_K30_MV1D	EP474224_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915706	EP474224_K30_MRCD	EP474224_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915710	EP474224_K40_MCKD	EP474224_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915712	EP474224_K40_MV1D	EP474224_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915711	EP474224_K40_MRCD	EP474224_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915714	EP474224_K50_BCKD	EP474224_K50	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915715	EP474224_K50_BRCD	EP474224_K50	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915717	EP474224_K60_MCKD	EP474224_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915716	EP474224_K60_MCHD	EP474224_K60	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915718	EP474224_K70_BCKD	EP474224_K70	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915719	EP474224_K70_BRCD	EP474224_K70	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915720	EP474224_K80_BS1D	EP474224_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915722	EP474224_K90_MV1D	EP474224_K90	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2913057	EP266208_K10_MCKD	EP266208_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913059	EP266208_K10_MV1D	EP266208_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913058	EP266208_K10_MRCD	EP266208_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913060	EP266208_K20_MCKD	EP266208_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913062	EP266208_K20_MV1D	EP266208_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913061	EP266208_K20_MRCD	EP266208_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2913063	EP266208_K30_MCKD	EP266208_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913065	EP266208_K30_MV1D	EP266208_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2913064	EP266208_K30_MRCD	EP266208_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915003	EP422409_K10_MCKD	EP422409_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915005	EP422409_K10_MV1D	EP422409_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915004	EP422409_K10_MRCD	EP422409_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2915020	EP422409_K20_MCKD	EP422409_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915022	EP422409_K20_MV1D	EP422409_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915021	EP422409_K20_MRCD	EP422409_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2915023	EP422409_K30_MCKD	EP422409_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915025	EP422409_K30_MV1D	EP422409_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915024	EP422409_K30_MRCD	EP422409_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2915026	EP422409_K40_MCKD	EP422409_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915028	EP422409_K40_MV1D	EP422409_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915027	EP422409_K40_MRCD	EP422409_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2915030	EP422409_K50_MCKD	EP422409_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915032	EP422409_K50_MV1D	EP422409_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915031	EP422409_K50_MRCD	EP422409_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2915034	EP422409_K60_MCKD	EP422409_K60	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915036	EP422409_K60_MV1D	EP422409_K60	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915035	EP422409_K60_MRCD	EP422409_K60	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2915038	EP422409_K70_MCKD	EP422409_K70	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2915039	EP422409_K80_BS1D	EP422409_K80	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2915041	EP422409_K90_BCKD	EP422409_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915042	EP422409_K90_BRCD	EP422409_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2915002	EP422409_K100_MCKD	EP422409_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915001	EP422409_K100_MCHD	EP422409_K100	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2915007	EP422409_K110_BS1D	EP422409_K110	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_11	16S	NARF-Virginia Commonwealth University
+2915009	EP422409_K120_BCKD	EP422409_K120	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2915010	EP422409_K120_BRCD	EP422409_K120	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_12	16S	NARF-Virginia Commonwealth University
+2915011	EP422409_K130_BS1D	EP422409_K130	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_13	16S	NARF-Virginia Commonwealth University
+2915013	EP422409_K140_BCKD	EP422409_K140	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_14	16S	NARF-Virginia Commonwealth University
+2915014	EP422409_K140_BRCD	EP422409_K140	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_14	16S	NARF-Virginia Commonwealth University
+2915015	EP422409_K150_BCKD	EP422409_K150	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_15	16S	NARF-Virginia Commonwealth University
+2915016	EP422409_K160_BS1D	EP422409_K160	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_16	16S	NARF-Virginia Commonwealth University
+2915019	EP422409_K170_MV1D	EP422409_K170	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_17	16S	NARF-Virginia Commonwealth University
+2915018	EP422409_K170_MRCD	EP422409_K170	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_17	16S	NARF-Virginia Commonwealth University
+2917504	EP608013_K10_MCKD	EP608013_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917507	EP608013_K10_MV1D	EP608013_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917505	EP608013_K10_MCVD	EP608013_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917506	EP608013_K10_MRCD	EP608013_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2917508	EP608013_K20_MCKD	EP608013_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917510	EP608013_K20_MV1D	EP608013_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917509	EP608013_K20_MRCD	EP608013_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2917511	EP608013_K30_MCKD	EP608013_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917513	EP608013_K30_MV1D	EP608013_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917512	EP608013_K30_MRCD	EP608013_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2917514	EP608013_K40_MCKD	EP608013_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917516	EP608013_K40_MV1D	EP608013_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2917515	EP608013_K40_MRCD	EP608013_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2916199	EP505314_K10_MCKD	EP505314_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916202	EP505314_K10_MV1D	EP505314_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916200	EP505314_K10_MCVD	EP505314_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916201	EP505314_K10_MRCD	EP505314_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2916203	EP505314_K20_MCKD	EP505314_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916205	EP505314_K20_MV1D	EP505314_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916204	EP505314_K20_MRCD	EP505314_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2916207	EP505314_K30_MV1D	EP505314_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2916206	EP505314_K30_MRCD	EP505314_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912224	EP206375_K10_MCKD	EP206375_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912227	EP206375_K10_MV1D	EP206375_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912225	EP206375_K10_MCVD	EP206375_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912226	EP206375_K10_MRCD	EP206375_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2912229	EP206375_K20_MCKD	EP206375_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912228	EP206375_K20_MCHD	EP206375_K20	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2912230	EP206375_K30_MCKD	EP206375_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912232	EP206375_K30_MV1D	EP206375_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912231	EP206375_K30_MRCD	EP206375_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2912233	EP206375_K40_MCKD	EP206375_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912235	EP206375_K40_MV1D	EP206375_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2912234	EP206375_K40_MRCD	EP206375_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920397	EP949081_K10_MV1D	EP949081_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920395	EP949081_K10_MCVD	EP949081_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920396	EP949081_K10_MRCD	EP949081_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2920398	EP949081_K20_MCKD	EP949081_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920400	EP949081_K20_MV1D	EP949081_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920399	EP949081_K20_MRCD	EP949081_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2920402	EP949081_K30_MCKD	EP949081_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920401	EP949081_K30_MCHD	EP949081_K30	Unknown	DNA	No	Chest	MCHD	Mom Chest(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2920403	EP949081_K40_MCKD	EP949081_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920405	EP949081_K40_MV1D	EP949081_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920404	EP949081_K40_MRCD	EP949081_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2920406	EP949081_K50_MCKD	EP949081_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2920409	EP949081_K50_MV1D	EP949081_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2920407	EP949081_K50_MCVD	EP949081_K50	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2920408	EP949081_K50_MRCD	EP949081_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919931	EP892824_K10_MCKD	EP892824_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919933	EP892824_K10_MV1D	EP892824_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919932	EP892824_K10_MRCD	EP892824_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2919935	EP892824_K20_MCKD	EP892824_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919937	EP892824_K20_MV1D	EP892824_K20	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919936	EP892824_K20_MRCD	EP892824_K20	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_2	16S	NARF-Virginia Commonwealth University
+2919939	EP892824_K30_MCKD	EP892824_K30	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919941	EP892824_K30_MV1D	EP892824_K30	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919940	EP892824_K30_MRCD	EP892824_K30	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_3	16S	NARF-Virginia Commonwealth University
+2919944	EP892824_K40_MCKD	EP892824_K40	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919946	EP892824_K40_MV1D	EP892824_K40	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919945	EP892824_K40_MRCD	EP892824_K40	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_4	16S	NARF-Virginia Commonwealth University
+2919948	EP892824_K50_MCKD	EP892824_K50	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919950	EP892824_K50_MV1D	EP892824_K50	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919949	EP892824_K50_MRCD	EP892824_K50	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_5	16S	NARF-Virginia Commonwealth University
+2919952	EP892824_K60_BS1D	EP892824_K60	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_6	16S	NARF-Virginia Commonwealth University
+2919954	EP892824_K70_BS1D	EP892824_K70	Stool	DNA	No	Stool	BS1D	Baby Stool(DNA)	Visit_7	16S	NARF-Virginia Commonwealth University
+2919956	EP892824_K80_BCKD	EP892824_K80	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919957	EP892824_K80_BRCD	EP892824_K80	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_8	16S	NARF-Virginia Commonwealth University
+2919958	EP892824_K90_BCKD	EP892824_K90	Buccal mucosa	DNA	No	Buccal mucosa	BCKD	Baby Cheek(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919959	EP892824_K90_BRCD	EP892824_K90	Rectum	DNA	No	Rectum	BRCD	Baby Rectal(DNA)	Visit_9	16S	NARF-Virginia Commonwealth University
+2919930	EP892824_K100_MCKD	EP892824_K100	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_10	16S	NARF-Virginia Commonwealth University
+2913504	EP290639_K10_MCKD	EP290639_K10	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913507	EP290639_K10_MV1D	EP290639_K10	Vagina	DNA	No	Vagina	MV1D	Mom Vaginal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913505	EP290639_K10_MCVD	EP290639_K10	Cervix	DNA	No	Cervix	MCVD	Mom Cervical(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913506	EP290639_K10_MRCD	EP290639_K10	Rectum	DNA	No	Rectum	MRCD	Mom Rectal(DNA)	Visit_1	16S	NARF-Virginia Commonwealth University
+2913508	EP290639_K20_MCKD	EP290639_K20	Buccal mucosa	DNA	No	Buccal mucosa	MCKD	Mom Cheek(DNA)	Visit_
